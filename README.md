@@ -1,5 +1,5 @@
 # ArticDragon
-Machine learning model capable of learning from user trades to create its own and pull a hefty profit!
+Machine learning model that learns from trades made by the user to create its own trades and pull a pretty hefty profit too!
 
 # License
 Parallax Capital INVESTMENTS
